@@ -7,4 +7,4 @@ Makefile
 *.dll
 *.a
 *.exe
-/cmake-build-target
+/cmake-build-debug
