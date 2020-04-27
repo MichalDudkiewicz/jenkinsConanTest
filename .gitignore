@@ -8,3 +8,4 @@ Makefile
 *.a
 *.exe
 /cmake-build-debug
+.idea
